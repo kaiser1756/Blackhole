@@ -1,0 +1,30 @@
+{
+  "name": "Blackhole",
+  "version": "1.0.0",
+  "description": "C'est un projet très top.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "keyword": [
+    "blackhole",
+    "trou noir"
+  ],
+  "author": {
+    "name": "Patrice BIAGUI",
+    "email": "patricebiagui@yahoo.fr"
+  },
+  "private": true,
+  "dependencies": {
+    "async": "^3.0.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.24.0",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11",
+    "underscore": "^1.9.1"
+  }
+}
