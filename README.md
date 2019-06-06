@@ -1,2 +1,2 @@
 # Blackhole
-Fonctions et modèles communs pour le code asynchrone
+Un aspirateur de site qui télécharge toutes les données contenues sur un site Web pour les sauvegarder!
